@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "ArturitAI-EVO",
+  "orientation": "any",
+  "scope": "https://arturit-ai.vercel.app/",
+  "short_name": "ArturitAI",
+  "start_url": "https://arturit-ai.vercel.app/",
+  "theme_color": "#ffffff",
+  "description": "The first All-free Programming assist designed to help proggramers in Phyton, JavaScript and LuaU.\n(System is current in test, some issues may happen)",
+  "lang": "en"
+}
